@@ -1,0 +1,7 @@
+{
+  "entrypoint": "src/main.tsx",
+  "appId": "dev.gpuix.starter",
+  "appName": "GPUIX App Starter",
+  "versionName": "0.1.0",
+  "versionCode": 1
+}
