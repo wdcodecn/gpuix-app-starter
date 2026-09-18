@@ -7,7 +7,7 @@
       "dependencies": {
         "@gpuix/native": "0.9.0",
         "@gpuix/react": "0.9.0",
-        "gpuix-base-ui": "github:wdcodecn/gpuix-base-ui#0d7a67c",
+        "gpuix-base-ui": "github:wdcodecn/gpuix-base-ui#ec1d166",
         "react": "19.3.0",
       },
       "devDependencies": {
@@ -43,7 +43,7 @@
 
     "gpuix-android": ["gpuix-android@github:wdcodecn/gpuix-android#037c372", { "bin": { "gpuix": "./scripts/gpuix.ts", "gpuix-android": "./scripts/gpuix.ts" } }, "wdcodecn-gpuix-android-037c372", "sha512-Mki/bQ34KJ2t7Wwd/Fui9gtoFfla12aSQocy2gb1t+drZ7Qv9vve3IukqAwZ19N2achPAIlOvKBe4sWvH7gHag=="],
 
-    "gpuix-base-ui": ["gpuix-base-ui@github:wdcodecn/gpuix-base-ui#0d7a67c", { "dependencies": { "@gpuix/native": "0.9.0", "@gpuix/react": "0.9.0", "react": "19.3.0" } }, "wdcodecn-gpuix-base-ui-0d7a67c", "sha512-GXH7LIRy5wotFuJRBFQQ+iV1V1YTc+UPAdOFp0t7WnKkMHy7yducmj7y2LS8ADuthhQw2IDbnm5x+GntrUh/iw=="],
+    "gpuix-base-ui": ["gpuix-base-ui@github:wdcodecn/gpuix-base-ui#ec1d166", { "dependencies": { "@gpuix/native": "0.9.0", "@gpuix/react": "0.9.0", "react": "19.3.0" } }, "wdcodecn-gpuix-base-ui-ec1d166", "sha512-5Qfa+JRclQ5Os9aYuzk+3nvwe4KdX8kN9B/DzEfXJRUdM8ig9IypPit5OXsB8gbYaVxsM55HyLtd+BmbU/1d9g=="],
 
     "react": ["react@19.3.0", "https://registry.npmmirror.com/react/-/react-19.3.0.tgz", {}, "sha512-E8LUcbtBWt20bbl2YoHfx4ZDBdxVTfOKtCZn9cDSJ4l6/nuoApcpIBcj47t2wZoVX8g2ZHuMHbiShgCR1T5Sog=="],
 
